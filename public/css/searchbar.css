@@ -1,0 +1,20 @@
+.searchbar {
+    padding-top: 5px;
+    padding-left: 20px;
+    height: 65px;
+}
+.searchinput {
+    margin-left: 20px;
+    font-size: 18px;
+    border: none;
+    height: 50px;
+    width: 400px;
+    text-decoration: underline;
+}
+.searchinput::placeholder {
+  text-decoration: none;
+  color : #A9A8B3;
+}
+.searchinput:focus{
+    outline: none;
+}

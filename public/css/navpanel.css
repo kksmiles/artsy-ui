@@ -1,0 +1,61 @@
+.nav-pan-title {
+    margin-left: -15px;
+    margin-right: -15px;
+    padding: 20px 20px 20px 80px;
+    background-color: #597DFF;
+    color: #FFFFFF;
+    font-weight: bold;
+    list-style: none;
+}
+.nav-pan-subtitle {
+    margin-left: -15px;
+    margin-right: -15px;
+    padding: 20px 20px 20px 45px;
+    background-color: #EB4E6F;
+    color: #FFFFFF;
+    font-weight: bold;
+    list-style: none;
+}
+.nav-pan-item-active {
+    margin-left: -15px;
+    margin-right: -15px;
+    padding: 20px 20px 20px 60px;
+    color: #597DFF;
+    background-color: #EEE;
+    font-weight: bold;
+    list-style: none;
+}
+
+.nav-pan-item-active:hover {
+    text-decoration: none;
+    color: #597DFF;
+}
+.nav-icon {
+    width: 30px;
+    font-size: 20px;
+}
+.nav-active-tile {
+    width: 5px;
+    margin-top: -20px;
+    margin-left: -60px;
+    height: 65px;
+    position: absolute;
+    display: inline-block;
+    background-color: #597DFF;
+}
+.nav-pan-item {
+    margin-left: -15px;
+    margin-right: -15px;
+    padding: 20px 20px 20px 60px;
+    color: #000000;
+    font-weight: bold;
+    list-style: none;
+}
+.atag:hover {
+    text-decoration: none;
+    color: #597DFF;
+}
+.nav-pan-item:hover {
+    text-decoration: none;
+    color: #597DFF;
+}
